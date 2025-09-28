@@ -1,4 +1,4 @@
-# snap-shot
+# M-Hacks 2025 Project: snap-shot
 
 ### Inspiration
 - Navigating a large college campus can be difficult for blind or visually impaired students. We wanted to use AR glasses to create a tool that makes campus life more accessible, safe, and independent.
