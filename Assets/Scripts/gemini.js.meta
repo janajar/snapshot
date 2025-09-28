@@ -1,0 +1,41 @@
+- !<AssetImportMetadata/f07175fd-8b47-4990-af92-c5dc8ebbc556>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> ba70b41b-3850-4ed2-8a9d-3a25684ab5c0
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> ba70b41b-3850-4ed2-8a9d-3a25684ab5c0
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 6dd9638b-a2ad-484c-8a63-48937f0817a6
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/6dd9638b-a2ad-484c-8a63-48937f0817a6>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: efcafd41-3f22-433e-b404-2a75e02eb3b0
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    geminiApiKey: false
+    internetModule: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - internetModule: !<reference.InternetModule> 00000000-0000-0000-0000-000000000000
+      geminiApiKey: ""
+  ScriptTypes:
+    -
+      {}

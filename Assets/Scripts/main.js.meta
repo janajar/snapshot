@@ -1,0 +1,51 @@
+- !<AssetImportMetadata/332b363a-0f91-4f9d-9d06-970251f4f13b>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 6c271803-1649-45c0-ae48-412768308a6a
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 6c271803-1649-45c0-ae48-412768308a6a
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 75070368-85fd-4665-8b0f-bf2054f73a56
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/75070368-85fd-4665-8b0f-bf2054f73a56>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3b5baa16-aec7-4456-86e0-99e26c0aea43
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    geminiApiKey: false
+    googleApiKey: false
+    internetModule: false
+    tts: false
+    ttsAudio: false
+    useOverrideLocation: false
+    voiceML: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - internetModule: !<reference.InternetModule> 00000000-0000-0000-0000-000000000000
+      voiceML: !<reference.VoiceMLModule> 5eb8bf2d-2595-4c98-87dc-9714e96e428e
+      tts: !<reference.TextToSpeechModule> c61d4829-35d6-4324-a2da-7dd2d84a885f
+      googleApiKey: ""
+      ttsAudio: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      useOverrideLocation: false
+      geminiApiKey: ""
+  ScriptTypes:
+    -
+      {}

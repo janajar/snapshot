@@ -1,0 +1,41 @@
+- !<AssetImportMetadata/ad80b175-1c05-425b-92bc-aed89cc6a03f>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> ffce4aa6-dc2f-437f-a36a-bcdc0f70d463
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> ffce4aa6-dc2f-437f-a36a-bcdc0f70d463
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 6728695b-6e76-4b0a-b47c-a79a193c65aa
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/6728695b-6e76-4b0a-b47c-a79a193c65aa>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a10b6887-c56a-484d-8280-4ea8e1e5d079
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    deviceCameraTexture: false
+    renderTarget: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - deviceCameraTexture: !<reference.DeviceCameraTexture> 00000000-0000-0000-0000-000000000000
+      renderTarget: !<reference.RenderTarget> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
