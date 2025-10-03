@@ -1,5 +1,5 @@
 # M-Hacks 2025 Project: snap-shot
-Check out out project on DevPost:
+Check out our project on DevPost:
 https://devpost.com/software/snap-shot?ref_content=my-projects-tab&ref_feature=my_projects
 
 ### Inspiration
