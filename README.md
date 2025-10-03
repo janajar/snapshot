@@ -1,4 +1,6 @@
 # M-Hacks 2025 Project: snap-shot
+Check out out project on DevPost:
+https://devpost.com/software/snap-shot?ref_content=my-projects-tab&ref_feature=my_projects
 
 ### Inspiration
 - Navigating a large college campus can be difficult for blind or visually impaired students. We wanted to use AR glasses to create a tool that makes campus life more accessible, safe, and independent.
